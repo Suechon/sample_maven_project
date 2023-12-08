@@ -1,0 +1,6 @@
+[submodule "sample_common"]
+	path = sample_common
+	url = https://github.com/Suechon/sample_common.git
+[submodule "sample_main"]
+	path = sample_main
+	url = https://github.com/Suechon/sample_main.git
